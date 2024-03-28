@@ -1,0 +1,27 @@
+
+K
+avtosalon/avtosalon/urls.py,d\0\d0c40c3f8d359cf30dd76bc82839c5776f1b0256
+F
+avtosalon/app/tests.py,5\9\595ec1c1c707696e084166db129e7cac5c1c0f90
+E
+avtosalon/app/apps.py,8\7\87d20e426f61a2eac49de5a46307e4b21ce6ad0d
+V
+&avtosalon/app/templates/app/index.html,c\e\ce9a1a1058088bb184fa71ac0c6fcdc6795fae53
+Z
+*avtosalon/app/templates/app/xizmatlar.html,a\7\a7b362d867c1ec7acabee199f8b9b3e419f1a92a
+O
+avtosalon/avtosalon/settings.py,9\5\9556132b9af3d35f12064d8025e372059b0ed47c
+S
+#avtosalon/app/static/app/styles.css,3\d\3d4bd9888dc46a70029c708aaecc1eca952ff436
+F
+avtosalon/app/admin.py,6\a\6a06ce3e698d02c92955989c6913a26c2fcf983a
+[
++avtosalon/app/templates/app/mashinalar.html,8\2\828c30c3064fbcb46ad1f90b002b2d56a014bb82
+G
+avtosalon/app/models.py,e\8\e8975322b58b9216f53d1572e2312842f19613b6
+F
+avtosalon/app/views.py,e\0\e018a800aaa4f88818847754df44a701363f0f4c
+_
+/avtosalon/app/templates/app/avto_modellar1.html,3\f\3fd039c88f6de9ad36c1fbc08e3505a78c12303c
+E
+avtosalon/app/urls.py,5\9\59e45d0536f3b122b48fa61b79fbb627f852b502

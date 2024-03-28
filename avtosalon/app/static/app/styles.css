@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+header h1 {
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.main {
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.blog {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.car {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.car img {
+    display: block;
+    margin: 0 auto;
+    max-width: 1080px;
+    height: auto;
+}
+
+.car .text {
+    position: absolute;
+    top: -20px; /* -20px, lekin kerakli masofa bo'yicha qiymatni berishingiz kerak */
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 1080px;
+    z-index: 1; /* .text elementini .car elementining ustiga joylash */
+}
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avto Salon</title>
+    <link rel="stylesheet" href="{% static 'app/styles.css' %}">
+</head>
+<body>
+    <header class="container">
+        <div>
+            <h1>Avto Salon</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="/" target="_self">Asosiy</a></li>
+                <li><a href="/avto_modellar" target="_self">Avto Modellar</a></li>
+                <li><a href="/xizmatlar">Xizmatlar</a></li>
+                <li><a href="#">Bog'lanish</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="main">
+        <div class="container">
+            <h2>Eng Yangi Avtomobillar</h2>
+            <p>Bu yerdan eng so'nggi yangiliklar bilan tanishing</p>
+        </div>
+    </section>
+    <footer class="container">
+        <p>&copy; 2024 Avto Salon. Barcha huquqlar himoyalangan.</p>
+    </footer>
+</body>
+</html>
